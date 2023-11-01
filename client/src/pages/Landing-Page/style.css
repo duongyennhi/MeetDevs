@@ -4,6 +4,11 @@
   overflow: hidden;
   background: radial-gradient(transparent -40%, black);
 }
+.logo {
+  
+
+}
+
 .bg-img {
   object-fit: cover;
   object-position: center;
